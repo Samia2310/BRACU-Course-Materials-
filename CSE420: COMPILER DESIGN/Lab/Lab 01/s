@@ -1,0 +1,49 @@
+<div align="center">
+
+# 🔧 CSE420: Compiler Design
+
+### *Transforming Code from High-Level to Machine Language*
+
+<img src="https://img.shields.io/badge/Course-CSE420-FF6B6B?style=for-the-badge" alt="CSE420"/>
+<img src="https://img.shields.io/badge/Category-Theory-4ECDC4?style=for-the-badge" alt="Theory"/>
+<img src="https://img.shields.io/badge/Level-Advanced-95E1D3?style=for-the-badge" alt="Advanced"/>
+
+</div>
+
+---
+
+## 📚 What You'll Learn
+
+**Lexical Analysis** → Tokenizing source code and pattern recognition  
+**Syntax Analysis** → Parsing techniques and grammar validation  
+**Semantic Analysis** → Type checking and scope management  
+**Code Optimization** → Performance improvements and efficiency  
+**Code Generation** → Translating to target machine code
+
+---
+
+## 📂 Repository Contents
+
+```
+📝 Lecture Notes & Slides
+💻 Lab Assignments & Solutions  
+📊 Grammar Examples & Parse Trees
+🔍 Lexer & Parser Implementations
+🎯 Practice Problems & Quizzes
+```
+
+---
+
+## 🛠️ Tools & Languages
+
+**Flex/Lex** • **Bison/Yacc** • **C/C++** • **Python**
+
+---
+
+<div align="center">
+
+### 💙 Happy Compiling!
+
+*Built with 💜 for CSE students*
+
+</div>
